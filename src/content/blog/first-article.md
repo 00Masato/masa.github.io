@@ -1,3 +1,12 @@
+---
+author: 00Masato
+pubDatetime: 2024-01-20T02:12:55+09:00
+title: ブログ始めました
+slug: first-article
+featured: false
+description: ブログ始めました
+---
+
 # ブログ始めました
 
 ブログ始めました。
